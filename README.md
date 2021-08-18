@@ -1,0 +1,2 @@
+# EXERCICIOS SOLUCIONADOS EM CSHARP
+Exemplos feitos em Aula DIO
